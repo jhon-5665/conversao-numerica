@@ -1,0 +1,15 @@
+C:\ConversaoNumerica\bin\Debug\net6.0\ConversaoNumerica.exe
+C:\ConversaoNumerica\bin\Debug\net6.0\ConversaoNumerica.deps.json
+C:\ConversaoNumerica\bin\Debug\net6.0\ConversaoNumerica.runtimeconfig.json
+C:\ConversaoNumerica\bin\Debug\net6.0\ConversaoNumerica.dll
+C:\ConversaoNumerica\bin\Debug\net6.0\ConversaoNumerica.pdb
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.csproj.AssemblyReference.cache
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.AssemblyInfoInputs.cache
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.AssemblyInfo.cs
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.csproj.CoreCompileInputs.cache
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.dll
+C:\ConversaoNumerica\obj\Debug\net6.0\refint\ConversaoNumerica.dll
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.pdb
+C:\ConversaoNumerica\obj\Debug\net6.0\ConversaoNumerica.genruntimeconfig.cache
+C:\ConversaoNumerica\obj\Debug\net6.0\ref\ConversaoNumerica.dll
